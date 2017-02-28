@@ -107,7 +107,7 @@ ccm:
     description: "Gitlab ...."
     #additional-properties: "\"access_token\":\"Gg6-SE35gGqm3vsLpphg\",\"repo_owner\": \"gitlab-org\",\"repo_name\": \"gitlab-ci-multi-runner\""
     #additional-properties: "'access_token':'Gg6-SE35gGqm3vsLpphg','repo_owner': 'gitlab-org','repo_name': 'gitlab-ci-multi-runner'"
-    additional-properties: "access_token:Gg6-SE35gGqm3vsLpphg,repo_owner: gitlab-org,repo_name: gitlab-ci-multi-runner"
+    additional-properties: "access_token:Gg6-SE35gGqm3vsLpphg,repo_owner:gitlab-org,repo_name:gitlab-ci-multi-runner"
 
 
 # Pipelines
